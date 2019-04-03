@@ -4,7 +4,7 @@
 		module="dockerdemo-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190402195105"
+		publication="20190403092600"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
